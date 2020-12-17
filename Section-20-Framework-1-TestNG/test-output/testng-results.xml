@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="10" passed="8" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-12-11T16:48:57 IST" name="Suite" finished-at="2020-12-11T16:48:57 IST" duration-ms="117">
+    <groups>
+      <group name="A">
+        <method signature="A145_CarLoan.mobilesigninCarLoan()[pri:0, instance:Base.A145_CarLoan@78ffe6dc]" name="mobilesigninCarLoan" class="Base.A145_CarLoan"/>
+      </group> <!-- A -->
+      <group name="B">
+        <method signature="A143_FirstTestNG.bye()[pri:0, instance:Base.A143_FirstTestNG@4a668b6e]" name="bye" class="Base.A143_FirstTestNG"/>
+      </group> <!-- B -->
+    </groups>
+    <test started-at="2020-12-11T16:48:57 IST" name="Personal Loan" finished-at="2020-12-11T16:48:57 IST" duration-ms="117">
+      <class name="Base.A145_CarLoan">
+        <test-method is-config="true" signature="bfMethod()[pri:0, instance:Base.A145_CarLoan@78ffe6dc]" started-at="2020-12-11T16:48:57 IST" name="bfMethod" finished-at="2020-12-11T16:48:57 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bfMethod -->
+        <test-method signature="mobiledignoutCarLoan()[pri:0, instance:Base.A145_CarLoan@78ffe6dc]" started-at="2020-12-11T16:48:57 IST" name="mobiledignoutCarLoan" finished-at="2020-12-11T16:48:57 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobiledignoutCarLoan -->
+        <test-method is-config="true" signature="afMethod()[pri:0, instance:Base.A145_CarLoan@78ffe6dc]" started-at="2020-12-11T16:48:57 IST" name="afMethod" finished-at="2020-12-11T16:48:57 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afMethod -->
+        <test-method signature="mobileLoginCarLoan(java.lang.String, java.lang.String)[pri:0, instance:Base.A145_CarLoan@78ffe6dc]" started-at="2020-12-11T16:48:57 IST" name="mobileLoginCarLoan" data-provider="getData" finished-at="2020-12-11T16:48:57 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[name1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[passw1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobileLoginCarLoan -->
+        <test-method is-config="true" signature="bfMethod()[pri:0, instance:Base.A145_CarLoan@78ffe6dc]" started-at="2020-12-11T16:48:57 IST" name="bfMethod" finished-at="2020-12-11T16:48:57 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bfMethod -->
+        <test-method is-config="true" signature="afMethod()[pri:0, instance:Base.A145_CarLoan@78ffe6dc]" started-at="2020-12-11T16:48:57 IST" name="afMethod" finished-at="2020-12-11T16:48:57 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afMethod -->
+        <test-method signature="mobileLoginCarLoan(java.lang.String, java.lang.String)[pri:0, instance:Base.A145_CarLoan@78ffe6dc]" started-at="2020-12-11T16:48:57 IST" name="mobileLoginCarLoan" data-provider="getData" finished-at="2020-12-11T16:48:57 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[name2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[passw2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobileLoginCarLoan -->
+        <test-method is-config="true" signature="bfMethod()[pri:0, instance:Base.A145_CarLoan@78ffe6dc]" started-at="2020-12-11T16:48:57 IST" name="bfMethod" finished-at="2020-12-11T16:48:57 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bfMethod -->
+        <test-method is-config="true" signature="afMethod()[pri:0, instance:Base.A145_CarLoan@78ffe6dc]" started-at="2020-12-11T16:48:57 IST" name="afMethod" finished-at="2020-12-11T16:48:57 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afMethod -->
+        <test-method signature="mobileLoginCarLoan(java.lang.String, java.lang.String)[pri:0, instance:Base.A145_CarLoan@78ffe6dc]" started-at="2020-12-11T16:48:57 IST" name="mobileLoginCarLoan" data-provider="getData" finished-at="2020-12-11T16:48:57 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[name3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[passw3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobileLoginCarLoan -->
+        <test-method is-config="true" signature="bfMethod()[pri:0, instance:Base.A145_CarLoan@78ffe6dc]" started-at="2020-12-11T16:48:57 IST" name="bfMethod" finished-at="2020-12-11T16:48:57 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bfMethod -->
+        <test-method is-config="true" signature="afMethod()[pri:0, instance:Base.A145_CarLoan@78ffe6dc]" started-at="2020-12-11T16:48:57 IST" name="afMethod" finished-at="2020-12-11T16:48:57 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afMethod -->
+        <test-method is-config="true" signature="bfMethod()[pri:0, instance:Base.A145_CarLoan@78ffe6dc]" started-at="2020-12-11T16:48:57 IST" name="bfMethod" finished-at="2020-12-11T16:48:57 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bfMethod -->
+        <test-method signature="mobilesigninCarLoan()[pri:0, instance:Base.A145_CarLoan@78ffe6dc]" started-at="2020-12-11T16:48:57 IST" name="mobilesigninCarLoan" finished-at="2020-12-11T16:48:57 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobilesigninCarLoan -->
+        <test-method is-config="true" signature="afMethod()[pri:0, instance:Base.A145_CarLoan@78ffe6dc]" started-at="2020-12-11T16:48:57 IST" name="afMethod" finished-at="2020-12-11T16:48:57 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afMethod -->
+        <test-method is-config="true" signature="bfMethod()[pri:0, instance:Base.A145_CarLoan@78ffe6dc]" started-at="2020-12-11T16:48:57 IST" name="bfMethod" finished-at="2020-12-11T16:48:57 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bfMethod -->
+        <test-method signature="APILoginCarLoan()[pri:0, instance:Base.A145_CarLoan@78ffe6dc]" started-at="2020-12-11T16:48:57 IST" name="APILoginCarLoan" finished-at="2020-12-11T16:48:57 IST" depends-on-methods="Base.A145_CarLoan.mobiledignoutCarLoan" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- APILoginCarLoan -->
+        <test-method is-config="true" signature="afMethod()[pri:0, instance:Base.A145_CarLoan@78ffe6dc]" started-at="2020-12-11T16:48:57 IST" name="afMethod" finished-at="2020-12-11T16:48:57 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afMethod -->
+      </class> <!-- Base.A145_CarLoan -->
+      <class name="Base.A143_FirstTestNG">
+        <test-method signature="bye()[pri:0, instance:Base.A143_FirstTestNG@4a668b6e]" started-at="2020-12-11T16:48:57 IST" name="bye" finished-at="2020-12-11T16:48:57 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bye -->
+        <test-method signature="demo1()[pri:0, instance:Base.A143_FirstTestNG@4a668b6e]" started-at="2020-12-11T16:48:57 IST" name="demo1" finished-at="2020-12-11T16:48:57 IST" duration-ms="6" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:99)
+at org.testng.Assert.failNotEquals(Assert.java:1037)
+at org.testng.Assert.assertTrue(Assert.java:45)
+at org.testng.Assert.assertTrue(Assert.java:55)
+at Base.A143_FirstTestNG.demo1(A143_FirstTestNG.java:14)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:132)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:599)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:174)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:822)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:147)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+at org.testng.TestRunner.privateRun(TestRunner.java:764)
+at org.testng.TestRunner.run(TestRunner.java:585)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)
+at org.testng.SuiteRunner.run(SuiteRunner.java:286)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1218)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
+at org.testng.TestNG.runSuites(TestNG.java:1069)
+at org.testng.TestNG.run(TestNG.java:1037)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo1 -->
+      </class> <!-- Base.A143_FirstTestNG -->
+      <class name="Base.A144_SecondTestNG">
+        <test-method signature="secondDay(java.lang.String)[pri:0, instance:Base.A144_SecondTestNG@5f683daf]" started-at="2020-12-11T16:48:57 IST" name="secondDay" finished-at="2020-12-11T16:48:57 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[timepass.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondDay -->
+      </class> <!-- Base.A144_SecondTestNG -->
+    </test> <!-- Personal Loan -->
+  </suite> <!-- Suite -->
+</testng-results>
