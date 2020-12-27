@@ -1,0 +1,7 @@
+18:21:49.017 [main] INFO  packageB.A185_Log4jIntroB - WIndow Maximized
+18:21:49.030 [main] DEBUG packageB.A185_Log4jIntroB - Now hitting home page
+18:21:51.446 [main] INFO  packageB.A185_Log4jIntroB - Landed on home page
+18:21:51.446 [main] DEBUG packageB.A185_Log4jIntroB - Now clicking on nested frames
+18:21:52.428 [main] DEBUG packageB.A185_Log4jIntroB - Landed on nested frames page
+18:21:52.515 [main] INFO  packageB.A185_Log4jIntroB - Sucessfully switched to top nested frame
+18:21:52.571 [main] INFO  packageB.A185_Log4jIntroB - Sucessfully second switched to middle nested frame
